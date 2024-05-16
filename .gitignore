@@ -1,0 +1,26 @@
+.DS_Store
+DayanAbbott-TheorNeurosc.pdf
+Example_Good_report.pdf
+Grading.png
+Homework1.pdf
+Homework2(part1).pdf
+Homework2(part2).pdf
+Homework3_IIIpart.pdf
+Homework3_IIpart.pdf
+Homework3_IVpart.pdf
+Homework3(I part).pdf
+Homework4.pdf
+Homework4(IIpart).pdf
+matlabtest.ipynb
+running_test.py
+
+*.mat
+*.png
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.zed
+*.tex

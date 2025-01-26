@@ -15,3 +15,11 @@ and examines how their dynamics evolve given different input current.
 This project explores a variety of neural networks. It first considers simple networks: the autapse neuron (a single self-connected neuron), and coupled neurons. It considers these models as dynamical systems, and explores their dynamics
 from this perspective: Fixed points, 0 crossings, null-clines, and regimes. It then moves on to more complex networks. There we first consider Hoppfield Networks, and probe their storage limits. And finally, we explore a Ring Attractor network, 
 using PCA to analyze its dynamics. 
+
+## Decision Making & RNNS
+This project approache Decision Making, specifically a 2 Alternative Forced Choice taks, from two perspectives. Firstly, it explores the Drift Diffusion Model, which aims to model the integration of MT neuron signals by LIP neurons. We look at how variation in parameters changes decision outcomes and reaction times. Then we design, train, and do PCA analysis on a Reccurent Neural Network trained to do the same task. **nb! the code for the RNN portion is based on a notebook by Dr. Adrian Valente**
+
+## FORCE Learning
+This project was an implementation and exploration of the paper "Generating Coherent Patterns of Activity from Chaotic Neural Networks" by David Sussillo and L.F. Abbott (2009). 
+Specifically, it focuses on the notion of "First Order Reduced and Controlled Error" - FORCE - learning, recreating the network and applying this learning algorithm to recreates select figures from the paper. 
+It also covers the notion of chaotic spontaneous activty, elucidates the learning and control phases, and comments on biological plausibility. 
